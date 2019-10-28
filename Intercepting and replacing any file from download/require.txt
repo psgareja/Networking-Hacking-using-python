@@ -1,11 +1,11 @@
 
 
-Requirement are:
+Requirements are:
 
 1) you need to install python 3
 2) kali linux tools
 3) scapy module
 4) you should know ip tables
 
-how it will work
+how it will work??
 1)just replace url from the location
